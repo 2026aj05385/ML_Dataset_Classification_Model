@@ -51,8 +51,8 @@ Five classifiers (Logistic Regression, Decision Tree, KNN, Gaussian Naive Bayes,
 
 ## c. GitHub Repository Link
 
-🔗 **Repository:** `<paste your GitHub repo URL here>`
-🚀 **Live app:** `<paste your Streamlit Community Cloud URL here>`
+🔗 **Repository:** `https://github.com/2026aj05385/ML_Dataset_Classification_Model`
+🚀 **Live app:** `https://mlclassificationmodels-ob3bdq8ixkjnfgqf5nfvhw.streamlit.app/`
 
 ```
 project-folder/
